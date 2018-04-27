@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var pg = require('pg');
 var path = require('path');
 var fs = require('fs');
