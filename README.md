@@ -1,7 +1,7 @@
 # pg-dump
 A data dump manager for postgresql
 
-		Create .csv files for all the tables in your postgres database
+	Create .csv files for all the tables in your postgres database
 
 ## Installation
 `npm install -g pg-dump`
